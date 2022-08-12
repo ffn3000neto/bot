@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-bot = commands.Bot("-")
+bot = commands.Bot("!")
 
 palavraos = ["porra","bosta","buceta","caralho","fdp","soca","broxa","fofo","sapequinha","bastardo","plebe","foda","foda-se","foder","fuder","nem fodendo","pau","pica","pqp","punheta","cu","trepar","xoxota",'sacanagem','cacete','arrombado',"babaca",'bicha','boiola','cracudo','filha da puta','galinha','puta','piranha','vagabundo','vagabunda','viado','corno','fudido','escroto','fudido','canalha','paspalho','trouxa','vaca','vadia','otario','bostao'
 ]
@@ -33,4 +33,4 @@ async def send_hello(ctx):
 
 
 
-bot.run("MTAwNDM2ODMzMTUxMzUyODM0MA.Gaj9-s.7xgSe52eh1MQJIW1XiVUzQN6fTqP7Ctg-qF3vo")
+bot.run("token")
